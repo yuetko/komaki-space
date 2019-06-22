@@ -1,5 +1,4 @@
 #创建一个随机产生IP地址的代码
-
 import random
 section1 = random.randint(0,255)
 section2 = random.randint(0,255)
